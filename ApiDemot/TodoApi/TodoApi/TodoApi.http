@@ -14,6 +14,6 @@ GET {{TodoApi_HostAddress}}/todoitems
 
 ###
 
-GET {{TodoApi_HostAddress}}/todoitems/{1}
+GET {{TodoApi_HostAddress}}/todoitems/1
 
 ###
